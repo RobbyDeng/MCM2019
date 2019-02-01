@@ -1,0 +1,10 @@
+\begin{table}[]
+\begin{tabular}{|c|c|c|c|c|}
+\hline
+\multicolumn{5}{|c|}{\textit{The Severity of Accident}} \\ \hline
+\textbf{Type of Accident} & crowded stampede & power outages & \begin{tabular}[c]{@{}c@{}}earthquake\\ (\textless{}=4.5)\end{tabular} & \begin{tabular}[c]{@{}c@{}}earthquake\\ (\textgreater{}4.5)\end{tabular} \\ \hline
+\textbf{Level} & 1 & 1 & 2 & 3 \\ \hline
+\textbf{Type of Accident} & explosion & fire & poisonous gases & terrorist attack \\ \hline
+\textbf{Level} & 3 & 3 & 3 & 4 \\ \hline
+\end{tabular}
+\end{table}
